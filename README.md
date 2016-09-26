@@ -1,4 +1,4 @@
-#Better Meta
+#Meta Pack
 Add new meta tags for newer technology devices
 
 What it do:
