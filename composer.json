@@ -3,7 +3,7 @@
   "description": "Give site extra meta for today devices for SilverStripe",
   "type": "silverstripe-module",
   "homepage": "https://github.com/intwebg/metapack",
-  "keywords": ["silverstripe", "metatag", "meta", "Facicon"],
+  "keywords": ["silverstripe", "metatag", "meta"],
   "license": "GPLv3",
   "authors": [
     {
