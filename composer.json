@@ -1,0 +1,21 @@
+{
+  "name": "intwebg/metapack",
+  "description": "Give site extra meta for today devices for SilverStripe",
+  "type": "silverstripe-module",
+  "homepage": "https://github.com/intwebg/metapack",
+  "keywords": ["silverstripe", "metatag", "meta", "Facicon"],
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Stéphane Guevremont",
+      "email": "stephane@intwebg.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/intwebg/metapack/issues"
+  },
+  "require": {
+    "silverstripe/cms": "~3.1",
+    "silverstripe/framework": "~3.1",
+  }
+}

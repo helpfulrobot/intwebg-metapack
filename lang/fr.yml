@@ -1,0 +1,6 @@
+fr:
+  MetaPack:
+    ICONS : 'Icônes'
+    ANDROIDICON : 'Icône pour appareils Android'
+    IOSICON : 'Icône pour appareils iOs'
+    FAVICON : 'Icône du site'
